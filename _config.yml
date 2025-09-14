@@ -1,0 +1,32 @@
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-toc
+
+remote_theme: pages-themes/dinky@v0.2.0
+
+# Jekyll defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      #image: /assets/images/name-tag.png
+
+url: https://mikulsp.wota.info
+
+# Purely to remove the file extension from links
+permalink: /:categories/:year/:month/:day/:title
+
+# Theme settings / site variables
+title: "Miku LSP 研究会"
+description: Trying to figure out and document the gameplay rules of Hatsune Miku Live Stage Producer.
+copyright: "Copyright ©️ 2013-2020, 2025 Hakanai"
+show_downloads: false
+google_analytics: G-ES1XRFD30E
+
+twitter:
+  username: "@HakanaiVR"
