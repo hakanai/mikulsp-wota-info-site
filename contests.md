@@ -22,16 +22,16 @@ The following table lists cost and payoff for contests for each class.
 
 Question marks mark unconfirmed information (at the time I started, I was already Major class. If someone can send screenshots of the uncertain levels, that would help!)
 
-| Class | Cost | Skills Used | Payoff |
-| ----- | ---- | ----------- | ------ |
-| Indies (1/4) | 1,000 G | 1 | 3,000 G |
-| Indies (2/4) | 1,200 G | 1 | 3,500 G |
-| Indies (3/4) | 1,400 G | 1 | 4,000 G |
-| Indies (4/4 ???) | 1,600 G | 2 ??? | 4,500 G ??? |
-| Major ☆ | 2,000 G | 2 | 5,500 G |
-| Major ☆☆ | 3,000 G | 3 | 8,000 G |
-| Major ☆☆☆ | 4,000 G | 3 | 9,000 G |
-| Major ☆☆☆<span style="line-height:1.5">☆</span> | 5,000 G | 3 | 10,000 G |
+| Class             | Cost    | Skills Used | Payoff |
+| ----------------- | ------- | ----------- | ------ |
+| Indies (1/4)      | 1,000 G |           1 |  3,000 G |
+| Indies (2/4)      | 1,200 G |           1 |  3,500 G |
+| Indies (3/4)      | 1,400 G |           1 |  4,000 G |
+| Indies (4/4 ???)  | 1,600 G |       2 ??? |  4,500 G ??? |
+| Major ☆          | 2,000 G |           2 |  5,500 G |
+| Major ☆☆        | 3,000 G |           3 |  8,000 G |
+| Major ☆☆☆      | 4,000 G |           3 |  9,000 G |
+| Major ☆☆☆☆    | 5,000 G |           3 | 10,000 G |
 
 ### Scoring for one-skill local contests
 
