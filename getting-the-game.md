@@ -1,7 +1,8 @@
 ---
 title: Getting the Game
-toc: true
 ---
+- Table of Contents
+{:toc}
 
 As the game is a Japan-only release for the time being, there are some hoops you'll have to jump through, different depending on what sort of device you own.
 

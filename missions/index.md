@@ -1,7 +1,8 @@
 ---
 title: Missions
-toc: true
 ---
+- Table of Contents
+{:toc}
 
 ## Tutorial
 

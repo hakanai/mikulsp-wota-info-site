@@ -1,7 +1,8 @@
 ---
 title: Contests
-toc: true
 ---
+- Table of Contents
+{:toc}
 
 Contests pit your Miku against other idols. Depending on the contest, you compete in different statistics and either win or lose the contest depending on how you fare against the norm.
 

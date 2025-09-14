@@ -1,7 +1,8 @@
 ---
 title: Training
-toc: true
 ---
+- Table of Contents
+{:toc}
 
 Every idol has to have skills and training is how you raise them.
 

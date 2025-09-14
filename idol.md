@@ -1,7 +1,8 @@
 ---
 title: Your Idol
-toc: true
 ---
+- Table of Contents
+{:toc}
 
 ## Ability Statistics
 

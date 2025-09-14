@@ -1,7 +1,8 @@
 ---
 title: Live House
-toc: true
 ---
+- Table of Contents
+{:toc}
 
 The live house can have 0 to 68 audience members. Each member has a satisfaction value and may have a coin on them or not. (However, what is actually being stored is the average satisfaction for each group of audience members, after dividing them into the four overall enthusiasm categories.)
 

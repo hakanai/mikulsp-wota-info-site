@@ -1,7 +1,8 @@
 ---
 title: Live Shows
-toc: true
 ---
+- Table of Contents
+{:toc}
 
 ## Live show gameplay
 
