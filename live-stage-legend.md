@@ -1,4 +1,5 @@
 ---
+title: Live Stage Legend
 ---
 
 Live Stage Legend (ライブステージ伝説) was a promotion run by Family Mart in conjunction with Sega in late 2012 to early 2013. Buying Miku-branded wafer biscuits, you would get a sticker. The back of each sticker has a QR code which takes you to a web page. You visit that page on the phone (it lands [here](http://miku.sega.jp/lsp/legend)) and enter the other code on the back of the sticker - the site will check the code and then launch the application.

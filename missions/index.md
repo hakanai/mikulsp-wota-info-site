@@ -1,6 +1,7 @@
 ---
+title: Missions
+toc: true
 ---
-{:toc}
 
 ## Tutorial
 

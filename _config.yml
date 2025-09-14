@@ -1,11 +1,11 @@
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-toc
 
-remote_theme: pages-themes/dinky@v0.2.0
+theme: just-the-docs
+color_scheme: "dark"
 
 # Jekyll defaults
 defaults:
@@ -14,6 +14,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+      has_toc: false
       #image: /assets/images/name-tag.png
 
 url: https://mikulsp.wota.info
@@ -25,8 +26,19 @@ permalink: /:categories/:year/:month/:day/:title
 title: "Miku LSP 研究会"
 description: Trying to figure out and document the gameplay rules of Hatsune Miku Live Stage Producer.
 copyright: "Copyright ©️ 2013-2020, 2025 Hakanai"
-show_downloads: false
-google_analytics: G-ES1XRFD30E
+ga_tracking: G-ES1XRFD30E
+
+nav_enabled: true
+nav_error_report: true
+
+search_enabled: true
+heading_anchors: true
+
+sass:
+  # https://github.com/just-the-docs/just-the-docs/issues/1541
+  quiet_deps: true
+  # https://github.com/just-the-docs/just-the-docs/issues/1607
+  silence_deprecations: ['import']
 
 twitter:
   username: "@HakanaiVR"

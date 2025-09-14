@@ -1,4 +1,5 @@
 ---
+title: Your Idol
 toc: true
 ---
 

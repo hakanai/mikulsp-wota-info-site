@@ -1,4 +1,6 @@
 ---
+title: Stages
+parent: Reference
 ---
 
 Stages come in 2D and 3D varieties, for use in the live house and live shows, respectively. 2D stages can generally be bought from the interior design screen. 2D stages are generally won through contests, contests and the like.

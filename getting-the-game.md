@@ -1,4 +1,5 @@
 ---
+title: Getting the Game
 toc: true
 ---
 

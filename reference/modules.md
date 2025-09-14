@@ -1,4 +1,6 @@
 ---
+title: Modules
+parent: Reference
 ---
 
 Modules (called outfits outside of the Project Diva universe) allow you to change the appearance of Miku. They come in 2D and 3D varieties, for use in the live house and live shows, respectively. 2D modules can generally be bought through the screen you get after tapping on Miku from the live house screen. 2D modules are generally won through contests, missions and the like.

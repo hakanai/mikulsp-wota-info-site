@@ -1,4 +1,6 @@
 ---
+title: Tutorial
+parent: Missions
 ---
 
 When you are first launched into the game, a series of tutorial missions are given in order to introduce each feature of the game. Sometimes these are fairly straight-forward, other times it might be unclear what the game is asking you do if you are not familiar with the language.
